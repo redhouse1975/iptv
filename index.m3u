@@ -44,19 +44,40 @@ https://secure-streams.akamaized.net/rt-usa/index.m3u8?serverSideAds=true
 #EXTINF:-1,Fox Sports
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
 #EXTINF:-1,Minecraft TV
 http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Dog TV
 https://content-ausc3.uplynk.com/channel/e8aeaab0dc3540d5adac23f8618903e4/j.m3u8?check2?b=1b241774cc0e46779bd8c366cbd51c14&v=e8aeaab0dc3540d5adac23f8618903e4&r=e&c=e8aeaab0dc3540d5adac23f8618903e4&pbs=41b95411dfd840488e1e9dcf15c35796
 
+#EXTINF:-1,History
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
+
+#EXTINF:-1,Nasa
+http://stitcher.pluto.tv/proxy/53811830-8884-11e8-8c9d-576880b49f24/54ee5ea872c1cbb844546d3f/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=53811830-8884-11e8-8c9d-576880b49f24&deviceId=c7724c10-8883-11e8-ab0e-cb5f3a04cd3b&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true&startingOffset=0
+
+
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1,Classic Toons
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=53811830-8884-11e8-8c9d-576880b49f24&deviceId=c7724c10-8883-11e8-ab0e-cb5f3a04cd3b&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Slow TV
 http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,CNet
+http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=c7727320-8883-11e8-ab0e-cb5f3a04cd3b&deviceId=c7724c10-8883-11e8-ab0e-cb5f3a04cd3b&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8

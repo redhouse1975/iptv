@@ -13,8 +13,11 @@ https://ovh.easyview.eu/hls/bbc2.m3u8
 #EXTINF:-1,BBC FOUR (UK IPs ONLY)
 https://ovh.easyview.eu/hls/bbc4.m3u8
 
-#EXTINF:-1,NBC News/MSNBC
-http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7101d360-9101-11e8-8b60-f94ab4e3a499&deviceId=5822bfe0-9100-11e8-a574-7d0cf8c71e47&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,CBSN
 http://stitcher.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=83a438e0-9102-11e8-9ffb-f95bcadc3739&deviceId=5822bfe0-9100-11e8-a574-7d0cf8c71e47&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -35,36 +38,40 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 https://secure-streams.akamaized.net/rt-usa/index.m3u8?serverSideAds=true
 
 #EXTINF:-1,Fox Sports
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 
 #EXTINF:-1,Minecraft TV
-http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
+http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Nasa
-http://stitcher.pluto.tv/stitch/hls/channel/54ee5ea872c1cbb844546d3f/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=5822e6f0-9100-11e8-a574-7d0cf8c71e47&deviceId=5822bfe0-9100-11e8-a574-7d0cf8c71e47&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/54ee5ea872c1cbb844546d3f/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,4K TV Showcase
-http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Classic Toons
-http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=53811830-8884-11e8-8c9d-576880b49f24&deviceId=c7724c10-8883-11e8-ab0e-cb5f3a04cd3b&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,After-School Toons
-http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=27bea340-9101-11e8-8547-9141b8cb3a61&deviceId=5822bfe0-9100-11e8-a574-7d0cf8c71e47&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Impact! Wrestling
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=27bea340-9101-11e8-8547-9141b8cb3a61&deviceId=5822bfe0-9100-11e8-a574-7d0cf8c71e47&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Slow TV
-http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,CNet
-http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=c7727320-8883-11e8-ab0e-cb5f3a04cd3b&deviceId=c7724c10-8883-11e8-ab0e-cb5f3a04cd3b&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,Forensic files
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,Hell's Kitchen
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
@@ -73,7 +80,7 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 #EXTINF:-1,MST3K
-http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,The Strip Radio
 https://video.pluto.tv/dash_radio/station40/playlist.m3u8?serverSideAds=false

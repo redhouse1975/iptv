@@ -13,6 +13,15 @@ https://ovh.easyview.eu/hls/bbc2.m3u8
 #EXTINF:-1,BBC FOUR (UK IPs ONLY)
 https://ovh.easyview.eu/hls/bbc4.m3u8
 
+#EXTINF:-1,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
+#EXTINF:-1,ABC
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1,Cats
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/3063648/playlist.m3u8?terminate=false&deviceId=521acf53-7915-4e08-890a-5df5df1f4a6a&deviceVersion=63.0&appVersion=2.2.4&deviceType=web&deviceMake=Firefox&sid=0cc31628-c9a5-49d9-bb74-ec02c3ea44c6&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSideAds=true
+
 #EXTINF:-1,NBC News
 http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 

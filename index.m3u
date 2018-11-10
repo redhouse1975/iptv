@@ -13,6 +13,9 @@ https://ovh.easyview.eu/hls/bbc2.m3u8
 #EXTINF:-1,BBC FOUR (UK IPs ONLY)
 https://ovh.easyview.eu/hls/bbc4.m3u8
 
+#EXTINF:-1,Shout! Factory
+http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=6030396e-6050-498f-afcf-aeed5422179a&deviceId=521acf53-7915-4e08-890a-5df5df1f4a6a&deviceVersion=63.0&appVersion=2.2.4&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 #EXTINF:-1,Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 

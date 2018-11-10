@@ -19,14 +19,19 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 #EXTINF:-1,ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 
-#EXTINF:-1,Cats
-http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/3063648/playlist.m3u8?terminate=false&deviceId=521acf53-7915-4e08-890a-5df5df1f4a6a&deviceVersion=63.0&appVersion=2.2.4&deviceType=web&deviceMake=Firefox&sid=0cc31628-c9a5-49d9-bb74-ec02c3ea44c6&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSideAds=true
+
+#EXTINF:-1,CW
+http://ilvc04.ec.ustvnow.com/ilv01/pr/xxe/smil:B0F5AWLYHUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726286229af87fbcd59eb5f07a66b2467e5045f955c98520285a87680759f01d6c70a6f24e0825210112bc7059f42e9ad2267fc19b&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTc4NmMxIiwidCI6InBoeW1iNXZiNnF6YjN6eGVhMnU0bmpoZnN2Z20iLCJpIjoiNmJiMmQ2ZmEiLCJzIjoid2x5aCJ9.V961ZGrHP4jMe8jgB0ulpC1gamj7YMAdxkO-1kdr2D4
 
 #EXTINF:-1,NBC News
 http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,CBS
+http://ilvc04.ec.ustvnow.com/ilv05/pr/xxe/smil:5779EWHPHUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726286229af87fbcd59eb5f07a66b2467e5045f955c98520285a87680759f01d6c70a6f24e0825210112bc7059f42e9ad2267fc19b&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTc4NmMxIiwidCI6InBoeW1iNXZiNnF6YjN6eGVhMnU0bmpoZnN2Z20iLCJpIjoiNmJiMmQ2ZmEiLCJzIjoid2hwaGQifQ.ijP6jsDbn5foD834847zVcdUQ6pgUhKROpD4xT4pJU8
+
 
 #EXTINF:-1,CBSN
 http://stitcher.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=83a438e0-9102-11e8-9ffb-f95bcadc3739&deviceId=5822bfe0-9100-11e8-a574-7d0cf8c71e47&deviceVersion=61.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -84,6 +89,10 @@ http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8
 
 #EXTINF:-1,Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+
+#EXTINF:-1,Cats
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/3063648/playlist.m3u8?terminate=false&deviceId=521acf53-7915-4e08-890a-5df5df1f4a6a&deviceVersion=63.0&appVersion=2.2.4&deviceType=web&deviceMake=Firefox&sid=0cc31628-c9a5-49d9-bb74-ec02c3ea44c6&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSideAds=true
 
 #EXTINF:-1,Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8

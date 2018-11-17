@@ -1,6 +1,9 @@
 #EXTINF:-1,Galveston TV
 https://59e4c57435027.streamlock.net:443/live/livestream/playlist.m3u8
 
+#EXTINF:-1,GREENSBORO TV NETWORK
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+
 #EXTINF:-1,TSTV Austin
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 

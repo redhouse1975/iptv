@@ -157,8 +157,15 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1,KVLU (Lamar University)
 http://kvlustream.lamar.edu:8000/stream.m3u
 
-#EXTINF:-1,Kicker 95.1 Beaumont
+#EXTINF:-1,Kicker 95.1 (Beaumont, TX)
 https://c6.prod.playlists.ihrhls.com/2205/playlist.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&modTime=1544157666854&pname=OrganicWeb&profileid=872256662&territory=US&uid=1544157657560&age=null&gender=null&amsparams=playerid%3AiHeartRadioWebPlayer%3Bskey%3A1544157666&terminalid=159&awparams=g%3Anull%3Bn%3Anull%3Bccaud%3Aundefined%3BcompanionAds%3Atrue&playedFrom=320&dist=iheart&devicename=web-desktop
 
-#EXTINF:-1,Cool 92.5 Beaumont
+#EXTINF:-1,Cool 92.5 (Beaumont, TX)
 https://c6.prod.playlists.ihrhls.com/2189/playlist.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&modTime=1544157768426&pname=OrganicWeb&profileid=872256662&territory=US&uid=1544157657560&age=null&gender=null&amsparams=playerid%3AiHeartRadioWebPlayer%3Bskey%3A1544157768&terminalid=159&awparams=g%3Anull%3Bn%3Anull%3Bccaud%3Aundefined%3BcompanionAds%3Atrue&playedFrom=320&dist=iheart&devicename=web-desktop
+
+#EXTINF:-1,KSBJ 89.3 (Humble, TX)
+http://18303.live.streamtheworld.com/KSBJFMAAC_SC
+
+#EXTINF:-1,Kool 94.5 (Phoenix, AZ)
+http://15363.live.streamtheworld.com/KOOLFMAAC_SC
+

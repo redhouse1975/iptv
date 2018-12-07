@@ -130,11 +130,11 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 #EXTINF:-1,Mr. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
-#EXTINF:-1,**Music**
-http://
-
 #EXTINF:-1,MST3K
 http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,**Music**
+http://
 
 #EXTINF:-1,The Strip Radio
 https://video.pluto.tv/dash_radio/station40/playlist.m3u8?serverSideAds=false
@@ -156,3 +156,9 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 
 #EXTINF:-1,KVLU (Lamar University)
 http://kvlustream.lamar.edu:8000/stream.m3u
+
+#EXTINF:-1,Kicker 95.1 Beaumont
+https://c6.prod.playlists.ihrhls.com/2205/playlist.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&modTime=1544157666854&pname=OrganicWeb&profileid=872256662&territory=US&uid=1544157657560&age=null&gender=null&amsparams=playerid%3AiHeartRadioWebPlayer%3Bskey%3A1544157666&terminalid=159&awparams=g%3Anull%3Bn%3Anull%3Bccaud%3Aundefined%3BcompanionAds%3Atrue&playedFrom=320&dist=iheart&devicename=web-desktop
+
+#EXTINF:-1,Cool 92.5 Beaumont
+https://c6.prod.playlists.ihrhls.com/2189/playlist.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&modTime=1544157768426&pname=OrganicWeb&profileid=872256662&territory=US&uid=1544157657560&age=null&gender=null&amsparams=playerid%3AiHeartRadioWebPlayer%3Bskey%3A1544157768&terminalid=159&awparams=g%3Anull%3Bn%3Anull%3Bccaud%3Aundefined%3BcompanionAds%3Atrue&playedFrom=320&dist=iheart&devicename=web-desktop

@@ -37,6 +37,9 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8 
 
+#EXTINF:-1,CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+
 #EXTINF:-1,NBC News
 http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 
@@ -64,15 +67,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1,History
-https://live-content.xumo.com/219/content/XM029CLIKLXBYL/18050177/master.m3u8
-
-#EXTINF:-1,PGA
-https://live-content.xumo.com/211/content/XM05DGCG5XU5FP/19190162/master.m3u8
-
-#EXTINF:-1,CBC
-https://live-content.xumo.com/207/content/XM0G1RQZRH0WN2/19188280/master.m3u8
-
 #EXTINF:-1,Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
@@ -90,9 +84,6 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 
 #EXTINF:-1,Fox 5
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-
-#EXTINF:-1,Telemundo
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 #EXTINF:-1,**24-7**
 http://

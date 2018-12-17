@@ -1,6 +1,25 @@
+#EXTINF:-1,********SPARKSAMMY IPTV INDEX********
+http://
+
+
+#EXTINF:-1,*****STABLE*****
+http://
 
 #EXTINF:-1,==MAIN IPTV==
 http://sparksammy.github.io/iptv/main.m3u
 
-#EXTINF:-1,==GO TO PLUTO.TV LINKS==
+
+#EXTINF:-1,*****UNSTABLE*****
+http://
+
+#EXTINF:-1,==LegalStream==
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/LegalStream.m3u
+
+#EXTINF:-1,==AUTO IPTV==
+https://freeiptv.io/m3u/d1qik_normal.php
+
+
+#EXTINF:-1,*****DEPRECATED*****
+http://
+#EXTINF:-1,==PlutoTV Streams==
 http://sparksammy.github.io/iptv/pluto.m3u

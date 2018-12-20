@@ -14,23 +14,23 @@ http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8
 #EXTINF:-1,Impact! Wrestling
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 
-#EXTINF:-1,Forensic files w
+#EXTINF:-1,Forensic files
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 
-#EXTINF:-1,Hell's Kitchen w
+#EXTINF:-1,Hell's Kitchen
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 
-#EXTINF:-1,The Strip Radio w
+#EXTINF:-1,The Strip Radio
 https://video.pluto.tv/dash_radio/station40/playlist.m3u8?serverSideAds=false
 
-#EXTINF:-1,80's Music Radio w
+#EXTINF:-1,80's Music Radio
 https://video.pluto.tv/dash_radio/station31/playlist.m3u8?serverSideAds=false
 
-#EXTINF:-1,70's Music Radio w
+#EXTINF:-1,70's Music Radio
 https://video.pluto.tv/dash_radio/station70/playlist.m3u8?serverSideAds=false
 
-#EXTINF:-1,Y2K Music Radio w
+#EXTINF:-1,Y2K Music Radio
 https://video.pluto.tv/dash_radio/station19/playlist.m3u8?serverSideAds=false
 
-#EXTINF:-1,Reggae King Radio w
+#EXTINF:-1,Reggae King Radio
 https://video.pluto.tv/dash_radio/station54/playlist.m3u8?serverSideAds=false

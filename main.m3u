@@ -44,6 +44,9 @@ https://kjac-lh.akamaihd.net/i/KJACLive_1@359455/master.m3u8
 #EXTINF:-1, NBC
 http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
 
+#EXTINF:-1, PBS
+http://atlas.its.virginia.edu:8088/hls/m3u8/PBS.m3u8
+
 #EXTINF:-1,PBS Kids
 https://live-cdn.pbskids.org/out/u/cst.m3u8
 

@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/notanewbie/LegalStream/master/LegalStream.m3u
 #EXTINF:-1,==AUTO IPTV==
 https://freeiptv.io/m3u/d1qik_normal.php
 
+#EXTINF:-1,==USTVHUB SPARKSAMMYS PICKS==
+https://freeiptv.io/m3u/d1qik_normal.php
+
 
 #EXTINF:-1,*****DEPRECATED*****
 http://
